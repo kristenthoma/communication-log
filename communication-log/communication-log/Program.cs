@@ -16,7 +16,8 @@ namespace communication_log
             Console.WriteLine("Now i have to pee");
             Console.WriteLine("At least you're not in a space suit");
             Console.WriteLine("Changed your color from red to blue so we can have a merge conflict yay");
-            Console.WriteLine("How do you track will smith in snow?");
+
+
         }
 
         
