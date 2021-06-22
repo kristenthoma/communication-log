@@ -15,7 +15,8 @@ namespace communication_log
             Console.WriteLine("Yes, I can breate again");
             Console.WriteLine("Now i have to pee");
             Console.WriteLine("At least you're not in a space suit");
-            Console.WriteLine("Changed your color from red to blue so we can have a merge conflict yay");
+            Console.WriteLine("Making another merge conflict here on line 20. My good joke got deleted in the merge.");
+
 
             Console.WriteLine("Why did the chicken cross the road?");
 
