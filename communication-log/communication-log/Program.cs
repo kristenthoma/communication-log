@@ -12,6 +12,7 @@ namespace communication_log
             Console.WriteLine("Hope you had a good bathroom break");
             Console.WriteLine("Yes, I can breate again");
             Console.WriteLine("Now i have to pee");
+            Console.WriteLine("At least you're not in a space suit");
         }
 
         
