@@ -6,7 +6,7 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Red;
+            Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Pilot!");
             Console.WriteLine("Hello Control!");
@@ -15,6 +15,7 @@ namespace communication_log
             Console.WriteLine("Yes, I can breate again");
             Console.WriteLine("Now i have to pee");
             Console.WriteLine("At least you're not in a space suit");
+            Console.WriteLine("Changed your color from red to blue so we can have a merge conflict yay");
         }
 
         
