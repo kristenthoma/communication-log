@@ -15,6 +15,7 @@ namespace communication_log
             Console.WriteLine("Yes, I can breate again");
             Console.WriteLine("Now i have to pee");
             Console.WriteLine("At least you're not in a space suit");
+            Console.WriteLine("Why did the chicken cross the road?");
         }
 
         
